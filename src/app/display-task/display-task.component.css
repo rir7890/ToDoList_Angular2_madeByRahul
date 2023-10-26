@@ -1,0 +1,16 @@
+.e-container{
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: auto 0;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.task-e{
+    margin-top: 10px;
+    margin-bottom:10px;
+    border: 3px solid black;
+    padding: 2%;
+    font-size: xx-large;
+}

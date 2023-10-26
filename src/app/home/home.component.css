@@ -1,0 +1,26 @@
+.task-manager{
+    background-color: greenyellow;
+    width: 60%;
+    border: 2px solid black;
+    margin:0 20% 0 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#add-input{
+    width:75%;
+    height: 50px;
+    padding: 5px 10px 5px 10px;
+    font-size: x-large;  
+    cursor: pointer;  
+}
+
+#submit-button{
+    width:25%;
+    height: 63px;
+    padding: 5px;
+    font-size: x-large;
+    cursor: pointer;
+}

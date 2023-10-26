@@ -1,0 +1,15 @@
+<!-- <p>display-task works!</p> -->
+<!-- <h1>{{ Task }}</h1> -->
+<!-- <div *ngIf="Task">
+  <h1>{{ Task }}</h1>
+</div> -->
+<div class="e-container" *ngIf="DataTasks">
+  <ul class="task-e" *ngFor="let task of DataTasks">
+    {{
+      task.task
+    }}
+    <span>
+      <button (click)="delete(task.id)">X</button>
+    </span>
+  </ul>
+</div>

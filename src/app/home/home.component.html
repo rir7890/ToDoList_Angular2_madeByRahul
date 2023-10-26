@@ -1,0 +1,5 @@
+<div class="task-manager">
+  <input id="add-input" type="text" [(ngModel)]="userName" name="userName" />
+  <button id="submit-button" (click)="sendTheData()">Send</button>
+</div>
+<app-display-task [Task]="userName"> </app-display-task>

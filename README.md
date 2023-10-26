@@ -1,5 +1,10 @@
 # AngularWebsite
 
+![image](https://github.com/rir7890/ToDoList_Angular2_madeByRahul/assets/98277620/1d4baad1-37e4-402d-a5f7-a11f890837a5)
+
+![image](https://github.com/rir7890/ToDoList_Angular2_madeByRahul/assets/98277620/ccab70bf-303f-4cff-bd91-4ffffa1a6134)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
